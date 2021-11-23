@@ -1,4 +1,4 @@
-# Helsinki - SanFrancisco Bike Share Comparision - An Urban Study
+# Helsinki - San Francisco Bike Share Comparision - An Urban Study
 
 Our exploratory data analysis has been completed in two notebooks, `helsinki.ipynb` and `sanfrancisco.ipynb`.
 
@@ -9,7 +9,7 @@ Our exploratory data analysis has been completed in two notebooks, `helsinki.ipy
 - https://www.kaggle.com/benhamner/san-francisco-trip-map/data?scriptVersionId=0
 - https://www.kaggle.com/geometrein/helsinki-city-bikes
 
-_Small samples of the data have been pused into GitHub since the entire database for SF is too large for GitHub to handle. Please see the Kaggle link for the complete files that we are using_
+_Small samples of the data have been pushed into GitHub since the entire database for SF is too large for GitHub to handle. Please see the Kaggle link for the complete files that we are using._
 
 ### Goals and research questions/areas
 
