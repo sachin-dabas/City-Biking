@@ -1,4 +1,4 @@
-# Helsinki - San Francisco Bike Share Comparision - An Urban Study
+# Helsinki & San Francisco Bike Share Comparision - An Urban Study
 
 Our exploratory data analysis has been completed in two notebooks, `helsinki.ipynb` and `sanfrancisco.ipynb`.
 
@@ -7,9 +7,10 @@ Our exploratory data analysis has been completed in two notebooks, `helsinki.ipy
 - https://www.opendata.fi/data/en_GB/dataset/vaestotietoruudukko/resource/5f684348-6eea-451c-8849-1a7a76d9414c
 - https://www.avoindata.fi/data/en_GB/dataset/helsingin-liikennevaylat/resource/a678f192-871d-486d-b45b-32a3a343f85a
 - https://www.kaggle.com/benhamner/san-francisco-trip-map/data?scriptVersionId=0
+- https://www.kaggle.com/benhamner/sf-bay-area-bike-share
 - https://www.kaggle.com/geometrein/helsinki-city-bikes
 
-_Small samples of the data have been pushed into GitHub since the entire database for SF is too large for GitHub to handle. Please see the Kaggle link for the complete files that we are using._
+_A small sample of the joined and cleaned dataset for trips/stations has been added in the `data/sf` folder on GitHub since the entire database for SF is too large for GitHub to handle. Please see the Kaggle link for the complete database files that we are using._
 
 ### Goals and research questions/areas
 
